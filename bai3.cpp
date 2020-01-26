@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int n,f,f0=1,f1=1;
-	cout<<"nhap gioi han:"<<endl;
+	cout<<"nhap n:"<<endl;
 	cin>>n;
 	if(n==0)
 		cout<<"khong co so nao"<<endl;
